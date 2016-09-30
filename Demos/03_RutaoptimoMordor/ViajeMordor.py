@@ -1,4 +1,15 @@
-﻿# Librerias
+#-------------------------------------------------------------------------------
+# Name:        Ruta óptima a Mordor
+# Purpose:
+#
+# Author:      jescudero
+#
+# Created:     11/08/2016
+# Copyright:   (c) jescudero 2016
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+# Librerias
 from arcpy.sa import *
 
 # Variables de ambiente
