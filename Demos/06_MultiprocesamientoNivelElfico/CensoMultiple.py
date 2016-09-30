@@ -1,4 +1,15 @@
-﻿import arcpy, multiprocessing
+#-------------------------------------------------------------------------------
+# Name:        Multiprocesamiento
+# Purpose:
+#
+# Author:      jescudero
+#
+# Created:     11/08/2016
+# Copyright:   (c) jescudero 2016
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+import arcpy, multiprocessing
 
 # Carpeta de salidas
 salidas = r"C:\Users\jescudero\Desktop\Python\Demos\01_CensoMordor\Salidas"
