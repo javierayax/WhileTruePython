@@ -1,0 +1,1 @@
+conda create -n arcgis104 python=2.7.10 numpy=1.9.2 matplotlib=1.4.3 pyparsing xlrd xlwt
