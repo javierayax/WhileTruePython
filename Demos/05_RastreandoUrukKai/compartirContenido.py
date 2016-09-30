@@ -1,4 +1,15 @@
-﻿# Ejecutar el comando 'jupyter notebook' para iniciar la aplicación
+#-------------------------------------------------------------------------------
+# Name:        compartiendo contenido con Légolas
+# Purpose:
+#
+# Author:      jescudero
+#
+# Created:     11/08/2016
+# Copyright:   (c) jescudero 2016
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+# Ejecutar el comando 'jupyter notebook' para iniciar la aplicación
 
 #Realizar la conexión con el portal
 from arcgis.gis import GIS
