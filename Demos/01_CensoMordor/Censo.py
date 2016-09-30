@@ -1,4 +1,15 @@
-﻿import arcpy, time
+#-------------------------------------------------------------------------------
+# Name:        Censo de Mordor
+# Purpose:
+#
+# Author:      jescudero
+#
+# Created:     11/08/2016
+# Copyright:   (c) jescudero 2016
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+import arcpy, time
 
 t1 = time.clock()
 # Carpeta de salidas
